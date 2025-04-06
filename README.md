@@ -2,7 +2,7 @@
 
 A modern, responsive single-page website focused on climate change awareness and information. Built with pure HTML and CSS, this project demonstrates professional web design principles while maintaining accessibility and user experience.
 
-![mellow-granita-0a3b3d.netlify.app]
+![CLICK HERE! to View the Project](mellow-granita-0a3b3d.netlify.app)
 
 ##  Features
 
