@@ -144,6 +144,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 For any questions or suggestions, please reach out to our emails!
+kansaramalhar22@gmail.com 
 
 ---
 Made with ❤️LOVE❤️ for climate awareness
